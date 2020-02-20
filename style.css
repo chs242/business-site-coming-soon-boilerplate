@@ -25,6 +25,7 @@ body {
     align-content: center;
     justify-content: center;
     font-family: "Text Me One", sans-serif;
+    overflow-x: hidden;
   }
   
   h1, p{
@@ -37,6 +38,16 @@ body {
   }
   h1 {
     font-size: 20vmin;
+  }
+  h3{
+    margin-top: 220px;
+    font-size: 27px;
+    width: 100%;
+    text-align: center;
+  }
+  h4{
+    width: 90%;
+    text-align: right;
   }
   p {
     font-size: 7vmin;
